@@ -6,7 +6,7 @@
 
 ## 🔎 Sobre Mim
 
-- 🎓 **Educação:** Cursando Gestão de TI (aprofundando estudos em Cybersecurity e Defesa Perimetral).
+- 🎓 **Educação:** Formado em Gestão de TI (aprofundando estudos em Cybersecurity).
 - 💼 **Atuação Atual:** Administração de ambientes Windows Server (Active Directory, DNS, Políticas de Grupo) e suporte avançado.
 - 🧪 **Laboratórios Práticos:** Desenvolvimento de habilidades em análise de vulnerabilidades e segurança defensiva através de plataformas como TryHackMe.
 - 🐧 **Mindset:** Entusiasta do terminal (CLI). Acredito na automação, no monitoramento proativo e na documentação eficiente de processos.
