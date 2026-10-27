@@ -1,4 +1,4 @@
-# 🛡️ Olá, me chamo Mateus!
+#  Olá, me chamo Mateus!
 
 **Analista de Infraestrutura de TI | Foco em Redes, Sysadmin & Cibersegurança** *Atualmente focado na administração de ambientes híbridos, monitoramento avançado e práticas de hardening.*
 
@@ -6,14 +6,14 @@
 
 ## 🔎 Sobre Mim
 
-- 🎓 **Educação:** Formado em Gestão de TI (aprofundando estudos em Cybersecurity).
-- 💼 **Atuação Atual:** Administração de ambientes Windows Server (Active Directory, DNS, Políticas de Grupo) e suporte avançado.
-- 🧪 **Laboratórios Práticos:** Desenvolvimento de habilidades em análise de vulnerabilidades e segurança defensiva através de plataformas como TryHackMe.
-- 🐧 **Mindset:** Entusiasta do terminal (CLI). Acredito na automação, no monitoramento proativo e na documentação eficiente de processos.
+-  **Educação:** Formado em Gestão de TI (aprofundando estudos em Cybersecurity).
+-  **Atuação Atual:** Administração de ambientes Windows Server (Active Directory, DNS, Políticas de Grupo) e suporte avançado.
+-  **Laboratórios Práticos:** Desenvolvimento de habilidades em análise de vulnerabilidades e segurança defensiva através de plataformas como TryHackMe.
+-  **Mindset:** Entusiasta do terminal (CLI). Acredito na automação, no monitoramento proativo e na documentação eficiente de processos.
 
 ---
 
-## 🛠️ Stack Técnica & Ferramentas
+## Stack Técnica & Ferramentas
 
 | Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Conecte-se Comigo
+##  Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-s-239a492a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
