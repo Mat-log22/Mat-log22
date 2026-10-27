@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mat-log22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mat-log22&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <p align="left">
